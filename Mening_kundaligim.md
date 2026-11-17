@@ -4,3 +4,4 @@
 4-kun: Bugun man maktabga bordim va yana IT darsga bordim lekin uncha yaxshi qatnasha olmadim chunki videoni ko'rmadim va uncha tushunmadim
 5-kun: Bugun man yana maktabga bordim, BSB va CHSB larni topshirdim
 6-kun: Bugun man yana maktabga bormadim uni o'rniga Git ilovasini Githubga ulab bilgan narsalarimni hammasini sinab ko'rdim va vazifalarimni topshirdim
+7-kun: Bugun man uyni adashmasam 4 soat tozaladim va juda charchadim...BYE
